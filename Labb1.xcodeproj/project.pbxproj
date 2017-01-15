@@ -14,6 +14,7 @@
 		0E7E19641E27BAC60035F627 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E7E19631E27BAC60035F627 /* Assets.xcassets */; };
 		0E7E19671E27BAC60035F627 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E7E19651E27BAC60035F627 /* LaunchScreen.storyboard */; };
 		0EB76CA31E281F470053280B /* bild.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0EB76CA21E281F470053280B /* bild.jpg */; };
+		0EB76D0F1E2BFC1D0053280B /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EB76D0E1E2BFC1D0053280B /* SettingsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		0E7E19661E27BAC60035F627 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E7E19681E27BAC60035F627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0EB76CA21E281F470053280B /* bild.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bild.jpg; sourceTree = "<group>"; };
+		0EB76D0D1E2BFC1D0053280B /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		0EB76D0E1E2BFC1D0053280B /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				0E7E195B1E27BAC60035F627 /* AppDelegate.m */,
 				0E7E195D1E27BAC60035F627 /* ViewController.h */,
 				0E7E195E1E27BAC60035F627 /* ViewController.m */,
+				0EB76D0D1E2BFC1D0053280B /* SettingsViewController.h */,
+				0EB76D0E1E2BFC1D0053280B /* SettingsViewController.m */,
 				0E7E19601E27BAC60035F627 /* Main.storyboard */,
 				0E7E19631E27BAC60035F627 /* Assets.xcassets */,
 				0E7E19651E27BAC60035F627 /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 				0E7E195F1E27BAC60035F627 /* ViewController.m in Sources */,
 				0E7E195C1E27BAC60035F627 /* AppDelegate.m in Sources */,
 				0E7E19591E27BAC60035F627 /* main.m in Sources */,
+				0EB76D0F1E2BFC1D0053280B /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
