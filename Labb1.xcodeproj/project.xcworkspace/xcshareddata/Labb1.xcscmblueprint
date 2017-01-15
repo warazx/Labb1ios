@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CE0E9FE247C07A6C0AC6E37F24B362E64FE54D8F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3B627EFCCC8B41F68E9D95ED3D9938797E2F8E69" : 9223372036854775807,
+    "CE0E9FE247C07A6C0AC6E37F24B362E64FE54D8F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "04E33C92-E3AE-4324-95B6-36431CD4FAB8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3B627EFCCC8B41F68E9D95ED3D9938797E2F8E69" : "",
+    "CE0E9FE247C07A6C0AC6E37F24B362E64FE54D8F" : "Labb1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Labb1",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Labb1.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/warazx\/ObjCLabb1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B627EFCCC8B41F68E9D95ED3D9938797E2F8E69"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/warazx\/ObjC-Labb1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CE0E9FE247C07A6C0AC6E37F24B362E64FE54D8F"
+    }
+  ]
+}
