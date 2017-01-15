@@ -13,6 +13,7 @@
 @property (weak, nonatomic) IBOutlet UISlider *greenSlider;
 @property (weak, nonatomic) IBOutlet UISlider *blueSlider;
 @property (weak, nonatomic) IBOutlet UIView *colorView;
+@property (weak, nonatomic) IBOutlet UIButton *saveButton;
 
 @end
 
@@ -28,9 +29,14 @@
     // Dispose of any resources that c[an be recreated.
 }
 
+- (IBAction)previewColor {
+    self.saveButton.backgroundColor = [self currentColor];
+}
+
 - (IBAction)saveSettings:(UIButton *)sender {
     [self refreshColorView];
 }
+
 
 - (UIColor*)currentColor {
     return [UIColor colorWithDisplayP3Red:self.redSlider.value
